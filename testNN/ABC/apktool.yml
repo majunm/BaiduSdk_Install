@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 456.apk
+compressionType: false
+doNotCompress:
+- arsc
+- jar
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '21'
+sharedLibrary: false
+unknownFiles:
+  com/androidquery/util/web_image.html: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

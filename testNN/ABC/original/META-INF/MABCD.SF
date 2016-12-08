@@ -1,0 +1,44 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: tvbRsE/Bt0NpCjf1cmNTCsZIkK4=
+Created-By: 1.7.0_55 (Oracle Corporation)
+SHA1-Digest-Manifest: 6gPHbwt1JK0gqIMu8rPAXqNom4Y=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/menu/main.xml
+SHA1-Digest: lhRjJ/ZdU1Y3AW2yhhGVzZ5/VeI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8MAOyTIkKWks10nTpF5MRteus/M=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: res/menu-v11/main.xml
+SHA1-Digest: l9GwmzUOiezS1KSEqKGtDK1oKwM=
+
+Name: res/layout/hd_shift_layout.xml
+SHA1-Digest: ENhs7L+26Fl/VGyq92rTHjA9Mrc=
+
+Name: assets/__xadsdk__remote__final__.jar
+SHA1-Digest: 3tNnuI/cxnkeidgu6ob1DcaplUI=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: GizWptnZf3xk/0pTm807/5DMHKg=
+
+Name: resources.arsc
+SHA1-Digest: 584/Oj235M9ftEou+wbOkAdIIC8=
+
+Name: classes.dex
+SHA1-Digest: 6Sz96VqCjlrv7ASDQKLQbl0AaIs=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: com/androidquery/util/web_image.html
+SHA1-Digest: wTPlXmTSfC+ndWpJhNXW6szTvNc=
+
